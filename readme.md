@@ -1,6 +1,6 @@
 # Spectral Classification Of Stars By Spectrophotometry
 The following project is an exploration of different data mining techniques. The project uses data pulled from the [SLOAN Digital Sky Survey](http://www.sdss.org) where each data point is derived from the supplied FITS files ([example](http://dr9.mirror.sdss3.org/sas/dr9/sdss/spectro/redux/26/spectra/0489/spec-0489-51930-0136.fits)). A more thorough explanation of the project as of May 20, 2015 can be found in the research paper in this repository titled
-[SpectralClassificationofStarsBySpectrophotometry](). Below is a simplified (but likely more up-to-date) discussion of the project in its current state.
+[SpectralClassificationofStarsBySpectrophotometry](https://github.com/madisonflaherty/spectralClassification/blob/master/SpectralClassificationofStarsBySpectrophotometry.pdf). Below is a simplified (but likely more up-to-date) discussion of the project in its current state.
 
 ## The Problem
 Multiple approaches to classifying stars using only the detailed spectrophotometric wavelengths procured from the SLOAN Digital Sky Survey. Stars are classified according to their spectral types (O,B,A,F,G,K,M). Further subclassing (i.e. a MIV type star is planned but not yet implemented).
